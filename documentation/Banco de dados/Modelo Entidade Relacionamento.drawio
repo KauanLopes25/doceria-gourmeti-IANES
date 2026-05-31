@@ -1,0 +1,123 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="XmeP-XDb8HAFcKE161Gk">
+    <mxGraphModel dx="975" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-1" parent="1" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" value="usuario" vertex="1">
+          <mxGeometry height="40" width="100" x="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="id_usuario" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-3" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="100" />
+            </Array>
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="telefone" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-5" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-4" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="210" />
+            </Array>
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="email" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-10" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-7" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="210" />
+            </Array>
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="320" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="nome" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-15" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-13" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="100" />
+            </Array>
+            <mxPoint x="400" y="190" as="sourcePoint" />
+            <mxPoint x="370" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-16" parent="1" style="whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" value="endereco" vertex="1">
+          <mxGeometry height="40" width="100" x="660" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="id_endereco" vertex="1">
+          <mxGeometry height="40" width="100" x="520" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-18" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-17" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="100" />
+            </Array>
+            <mxPoint x="700" y="300" as="sourcePoint" />
+            <mxPoint x="860" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="cidade" vertex="1">
+          <mxGeometry height="40" width="100" x="520" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-20" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-19" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="210" />
+            </Array>
+            <mxPoint x="700" y="410" as="sourcePoint" />
+            <mxPoint x="660" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="numero" vertex="1">
+          <mxGeometry height="40" width="100" x="790" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-22" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-21" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="210" />
+            </Array>
+            <mxPoint x="740" y="270" as="sourcePoint" />
+            <mxPoint x="780" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="cep" vertex="1">
+          <mxGeometry height="40" width="100" x="790" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-24" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-23" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="MQvcSJ9cBHx05hmsVEV3-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="100" />
+            </Array>
+            <mxPoint x="860" y="190" as="sourcePoint" />
+            <mxPoint x="830" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-25" edge="1" parent="1" source="MQvcSJ9cBHx05hmsVEV3-1" style="endArrow=ERoneToMany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;startArrow=ERmandOne;startFill=0;" target="MQvcSJ9cBHx05hmsVEV3-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQvcSJ9cBHx05hmsVEV3-27" connectable="0" parent="MQvcSJ9cBHx05hmsVEV3-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Contém" vertex="1">
+          <mxGeometry relative="1" x="-0.0029" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
